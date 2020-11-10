@@ -8,7 +8,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
-## Technologies Used
+## Built With
 
 * HTML
 * CSS
