@@ -1,11 +1,12 @@
 $(document).ready(function () {
     //Save button
     $(".saveBtn").on("click", function () {
+        //need to get to right element -- sibling of parent's child
         let key = $(this).siblings("input").attr("id");
         let value = $(this).siblings("input").val();
-        // let descriptionVal = localStorage.getItem(key);
-
+        console.log("key:" + key, "value:" + value);
         localStorage.setItem(key, value);
+
     })
 
 
@@ -25,5 +26,11 @@ $(document).ready(function () {
         }
     })
 
-    
+
+    //retrieving info from localstorage
+    $("textarea").each(function() {
+        if()
+    })
+
+
 })
