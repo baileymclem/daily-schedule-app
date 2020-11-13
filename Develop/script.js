@@ -27,6 +27,9 @@ $(document).ready(function () {
 
 
     //retrieving info from localstorage
+
+    //failing to figure out how to do that with a loop
+
     // for (i = 0; i < localStorage.length; i++) {
 
     //      if(localStorage.key(i) == $("input").attr("id")) {
@@ -34,6 +37,7 @@ $(document).ready(function () {
     //     }
 
 
+    //just retrieving info from local storage this way
     $("#9").val(localStorage.getItem("9"));
     $("#10").val(localStorage.getItem("10"));
     $("#11").val(localStorage.getItem("11"));
