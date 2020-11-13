@@ -1,4 +1,8 @@
 $(document).ready(function () {
+
+    //current day
+    $("#currentDay").append(moment().format("MMM Do YY"));
+
     //Save button
     $(".saveBtn").on("click", function () {
         //need to get to right element -- sibling of parent's child
