@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     //current day
-    $("#currentDay").append(moment().format("MMM Do YY"));
+    $("#currentDay").append(moment().format("MMM Do YYYY"));
 
     //Save button
     $(".saveBtn").on("click", function () {
