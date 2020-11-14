@@ -15,5 +15,5 @@ SO THAT I can manage my time effectively
 * Javascript
 * jQuery
 * Bootstrap
-* DOM munipulation
 * Moment.js
+
