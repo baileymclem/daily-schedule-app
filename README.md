@@ -11,7 +11,7 @@ SO THAT I can manage my time effectively
 
 ```
 
-[Project link](https://baileymclem.github.io/daily-schedule-app)
+[Project link](https://baileymclem.github.io/daily-schedule-app/)
 
 ![Image of  ](https://github.com/baileymclem/daily-schedule-app/blob/main/assets/scheduler.gif)
 
