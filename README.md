@@ -28,14 +28,12 @@ For this project tarted with the start code provided. I tweaked CSS, turning the
 * Javascript
 * jQuery
 * Bootstrap
-* DOM munipulation
 * Moment.js
-
 
 ## Contact
 
-baileythevampireslayer@gmail.com
+baileymarieclemons@gmail.com
 
-## Licsence
+## Licsense
 
-None.
+None
